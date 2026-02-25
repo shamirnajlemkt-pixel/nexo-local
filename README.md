@@ -1,0 +1,1 @@
+# Nexo Local\n\nLanding page profesional — Marketing Digital para Negocios Locales.\n\n🔗 [Ver sitio](https://shamirnajlemkt-pixel.github.io/nexo-local/)\n
