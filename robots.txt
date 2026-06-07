@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shamirnajlemkt-pixel.github.io/sitemap-index.xml
