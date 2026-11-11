@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shamirnajlemkt-pixel.github.io/sitemap-index.xml
+Sitemap: https://shamirnajlemkt-pixel.github.io/nexo-local/sitemap-index.xml
